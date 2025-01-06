@@ -1,1 +1,3 @@
-# scoring
+# Scoring
+
+stuff about scorekeeping 
